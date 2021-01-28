@@ -1,4 +1,4 @@
-# second_app
+# ITESO Information App
 
 A new Flutter project.
 
